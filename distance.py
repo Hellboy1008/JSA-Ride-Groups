@@ -1,3 +1,8 @@
+# Created by: 龍ONE
+# Date Created: February 7, 2020
+# Date Edited: October 5, 2020
+# Purpose: Calculate the distance between two points given longitude and latitude.
+
 # import sys for exiting program
 import sys
 

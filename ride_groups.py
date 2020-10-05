@@ -1,3 +1,8 @@
+# Created by: 龍ONE
+# Date Created: February 15, 2020
+# Date Edited: October 5, 2020
+# Purpose: Main file for running program to create ride groups.
+
 # import os for file directory, sys for exiting program, math for nan values
 import os
 import sys
